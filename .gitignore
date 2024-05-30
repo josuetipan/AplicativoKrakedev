@@ -1,4 +1,4 @@
 ConfiguracionIDE/
 
 EvidenciasDelDesarrollo/*.png
-/Manual.txt
+**/Manual.txt
